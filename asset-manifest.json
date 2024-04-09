@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/techsoc/static/css/main.27fc7f69.css",
+    "main.js": "/techsoc/static/js/main.f7c685eb.js",
+    "static/js/453.64512fd7.chunk.js": "/techsoc/static/js/453.64512fd7.chunk.js",
+    "static/media/blogwp.webp": "/techsoc/static/media/blogwp.d765a07676752b012685.webp",
+    "index.html": "/techsoc/index.html",
+    "main.27fc7f69.css.map": "/techsoc/static/css/main.27fc7f69.css.map",
+    "main.f7c685eb.js.map": "/techsoc/static/js/main.f7c685eb.js.map",
+    "453.64512fd7.chunk.js.map": "/techsoc/static/js/453.64512fd7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27fc7f69.css",
+    "static/js/main.f7c685eb.js"
+  ]
+}
